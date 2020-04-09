@@ -12,7 +12,6 @@
 ```
 $cd google-images-download
 $python bing_scraper.py --search 'honeybees' --limit 10 --download --chromedriver /Users/glennjocher/Downloads/chromedriver
-
 ```
 ### Naver image Crawling
 
