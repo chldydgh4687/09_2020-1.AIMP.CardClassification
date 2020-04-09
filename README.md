@@ -9,7 +9,7 @@
 - [how to use google-images_download](https://github.com/chldydgh4687/2020-1_AI_miniproject/issues/1)
 ```
 $cd google-images-download
-$python bing_scraper.py --search 'honeybees' --limit 10 --download --chromedriver /Users/glennjocher/Downloads/chromedriver
+$python bing_scraper.py --search '비바플래티늄카드' --limit 50 --download --chromedriver ./chromedriver
 ```
 ### Naver image Crawling (reference)
 
