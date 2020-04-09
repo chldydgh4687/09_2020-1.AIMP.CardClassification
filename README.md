@@ -5,9 +5,15 @@
 ## Data processing
 
 ### google-images_download
-
+- 본프로젝트에서는 네이버에서 크롤링했을 때 잘 나오지않은 카드의 이미지를 크롤링하는데 사용했습니다.
 - google-images_download ([reference](https://github.com/hardikvasa/google-images-download/issues/301#issuecomment-597216052))
 
+- [how to use google-images_download](https://github.com/chldydgh4687/2020-1_AI_miniproject/issues/1)
+```
+$cd google-images-download
+$python bing_scraper.py --search 'honeybees' --limit 10 --download --chromedriver /Users/glennjocher/Downloads/chromedriver
+
+```
 ### Naver image Crawling
 
 - description  
