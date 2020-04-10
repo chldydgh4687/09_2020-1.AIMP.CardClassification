@@ -26,5 +26,5 @@ $python cd_img_loader.py
 
 ### develop environments
 - Teachable_machine_ver.2.0
-- python 2.7, pycharm
+- python 2.7, pycharm, tensorflow 2.0, keras
 - android_studio or web
