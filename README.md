@@ -39,6 +39,6 @@ $python cd_img_loader.py
 ---
 
 ### 위의 과정을 끝낸 현 학습에 쓰였던 데이터파일
-### [[preprocessed_data_download_link]](https://www.dropbox.com/s/heey21r8ftxdk9w/NAVER.zip?dl=0) (161MB)
+### [[preprocessed_data_download_link]](https://www.dropbox.com/s/s6keyrpfcguyp81/NAVER.zip?dl=0) (157MB)
 
 
