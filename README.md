@@ -34,9 +34,6 @@ $python cd_img_loader.py
  
 <img src="https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/e4bae_aug.PNG" width="40%">
 
-### augmentation을 해볼 좋은 데이터가 아닐 경우
-- 새로 나온 카드의 경우, 사람들이 인증샷을 많이 찍기때문에, 인스타에서의 사진을 가져와서 augmentation을 진행한다. 
-  
 </br>
 
 ---
