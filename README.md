@@ -29,13 +29,12 @@ data 풀더에 카드리스트.txt 파일을 생성하여 한 줄씩 읽어서 �
 $python cd_img_loader.py
 ```
 ### After crawling, Data augmentation 
-- 수동적인 작업으로 카드이름과 맞지않은 그림을 삭제합니다.
+- 수동적인 작업으로 카드이름과 맞지않은 그림 혹은 augmentation이 과도하게 된 데이터를 삭제합니다.
 - 삭제를 했기때문에 부족하고 똑바른 카드가 놓여있는 한가지 경우의 데이터의 양의 다양성과 학습 성능을 높이기위해서 keras와 다른 툴을 이용하여 회전, 좌우 반전시키거나 잘라주거나, 크기를 조정하거나 빛의 세기를 조정합니다.
  
 <img src="https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/e4bae_aug.PNG" width="40%">
 
 </br>
-
 ---
 
 ### 위의 과정을 끝낸 현 학습에 쓰였던 데이터파일
