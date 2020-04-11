@@ -8,7 +8,6 @@
 ### develop environments
 - Teachable_machine_ver.2.0
 - python 3.7, pycharm, tensorflow 2.0, keras (crawling_image, augmentation)
-- android_studio
 
 ## Data processing
 
