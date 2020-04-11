@@ -35,6 +35,7 @@ $python cd_img_loader.py
 <img src="https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/e4bae_aug.PNG" width="40%">
 
 </br>
+
 ---
 
 ### 위의 과정을 끝낸 현 학습에 쓰였던 데이터파일
