@@ -1,9 +1,8 @@
-# Check_Card_image_classification using teachable machine
+# Check_Card_image_classification with Teachable machine
 
 2020-1. SEJONG univ. AI miniproject
 
-![https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/card_recognition.jpg?raw=true](https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/card_recognition.jpg?raw=true)
-
+<img src="https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/test_img.PNG" width="100%">
 
 ### develop environments
 - Teachable_machine_ver.2.0
@@ -37,8 +36,20 @@ $python cd_img_loader.py
 </br>
 
 ---
+# [Test with Techable_Machine](https://teachablemachine.withgoogle.com/models/-vbmCVYSx/)
 
-### 위의 과정을 끝낸 현 학습에 쓰였던 데이터파일
-### [[preprocessed_data_download_link]](https://www.dropbox.com/s/s6keyrpfcguyp81/NAVER.zip?dl=0) (157MB)
+#### [[Preprocessed_Data_Download_Link]](https://www.dropbox.com/s/46e2ogzl7r9y0cj/NAVER.zip?dl=0) (Naver.zip 157MB)
+#### [[Test_Data_Download_Link]](https://www.dropbox.com/s/eajs98wr59gyeky/test.zip?dl=0) (test.zip 75 file)	
+
+## Parameter_Optimization & Evaluation
+### 평가 지표 :  정답/75장의 테스트파일 * 100  
+
+|epochs|batch_size|learning_Rate|evaluation|
+|------|---|---|---|
+|50|16|0.001|78.666|
+|50|32|0.001|78.666|
+|50|32|0.01|66.666|
+|100|32|0.001|73.333|
+|100|16|0.0005|73.333|
 
 
