@@ -1,4 +1,4 @@
-# Check_Card_Image_Classification with Teachable machine 2.0 
+# Check_Card_Image_Classification with Teachable machine 
 
 2020-1. SEJONG univ. AI miniproject
 
@@ -41,4 +41,14 @@ $python cd_img_loader.py
 #### [[Preprocessed_Data_Download_Link]](https://www.dropbox.com/s/46e2ogzl7r9y0cj/NAVER.zip?dl=0) (Naver.zip 157MB)
 #### [[Test_Data_Download_Link]](https://www.dropbox.com/s/eajs98wr59gyeky/test.zip?dl=0) (test.zip 75 file)
 
+## Parameter_Optimization & Evaluation
+### 평가 지표 :  정답/75장의 테스트파일 * 100  
+  
+|epochs|batch_size|learning_Rate|evaluation|
+|------|---|---|---|
+|50|16|0.001|78.666|
+|50|32|0.001|78.666|
+|50|32|0.01|66.666|
+|100|32|0.001|73.333|
+|100|16|0.0005|73.333|
 
