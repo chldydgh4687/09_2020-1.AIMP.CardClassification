@@ -45,9 +45,14 @@ $python cd_img_loader.py
 - 테스트 데이터 75장
 #### [[Test_Data_Download_Link]](https://www.dropbox.com/s/eajs98wr59gyeky/test.zip?dl=0) (test.zip 75 file)	
 
-## Parameter_Optimization & Evaluation
-### 평가 지표 :  정답(test_solution.csv)/75장의 테스트파일 * 100  
+## Parameter_Optimization & Evaluation  
+### 평가 지표 : 정답(test_solution.csv)/75장의 테스트파일 * 100  
+### 평가 방법 : 
+```
+$python run_evaluation.py
+```
 
+### 파라미터 조정과 평가 결과 : 
 |epochs|batch_size|learning_Rate|evaluation|
 |------|---|---|---|
 |50|16|0.001|78.666|
