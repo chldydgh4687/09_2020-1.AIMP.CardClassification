@@ -40,7 +40,7 @@ $python cd_img_loader.py
 # Test with Techable_Machine 
 : [https://teachablemachine.withgoogle.com/models/-vbmCVYSx/](https://teachablemachine.withgoogle.com/models/-vbmCVYSx/)
   
-- 학습에 사용했던 데이터 
+- 학습에 사용했던 데이터  
 (Train을 직접 하실 경우, 데이터가 많아서 Train 하고 기다리시거나 응답대기창에서 대기를 5번정도 누르시면 Train 됩니다.)
 #### [[Preprocessed_Data_Download_Link]](https://www.dropbox.com/s/46e2ogzl7r9y0cj/NAVER.zip?dl=0) (Naver.zip 157MB)
 - 테스트 데이터 75장
