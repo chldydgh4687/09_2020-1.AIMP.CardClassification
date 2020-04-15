@@ -37,7 +37,8 @@ $python cd_img_loader.py
 </br>
 
 ---
-# Test with Techable_Machine
+# Test with Techable_Machine 
+(데이터가 많아서 Train 하고 기다리시거나 응답대기 5번정도 누르시면 Train 됩니다.)
 : [https://teachablemachine.withgoogle.com/models/-vbmCVYSx/](https://teachablemachine.withgoogle.com/models/-vbmCVYSx/)
   
 - 학습에 사용했던 데이터 
