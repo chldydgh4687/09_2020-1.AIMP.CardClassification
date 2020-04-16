@@ -41,8 +41,7 @@ $python cd_img_loader.py
 : [https://teachablemachine.withgoogle.com/models/-vbmCVYSx/](https://teachablemachine.withgoogle.com/models/-vbmCVYSx/)
   
 
-
-<p align="center"><img src="https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/ANY_0416163500.gif?" width="30%">
+<img src="https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/ANY_0416163500.gif?" width="30%">
 
 
 
