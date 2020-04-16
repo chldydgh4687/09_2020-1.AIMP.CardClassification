@@ -42,7 +42,7 @@ $python cd_img_loader.py
   
 
 
-<img src="https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/ANY_0416163500.gif?" width="50%">
+<img src="https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/ANY_0416163500.gif?" width="30%">
 
 
 
