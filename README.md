@@ -30,7 +30,7 @@ $python cd_img_loader.py
 ```
 ### After crawling, Data augmentation 
 - 수동적인 작업으로 카드이름과 맞지않은 그림 혹은 augmentation이 과도하게 된 데이터를 삭제합니다.
-- 삭제를 했기때문에 부족하고 똑바른 카드가 놓여있는 한가지 경우의 데이터의 양에 대한 과적합을 피하고 학습 성능을 높이기위해서 keras와 다른 툴을 이용하여 회전, 좌우 반전시키거나 잘라주거나, 크기를 조정하거나 빛의 세기를 조정합니다.
+- 삭제를 했기때문에 부족하고 똑바른 카드가 놓여있는 한가지 경우의 데이터의 양에 대한 과적합을 피하고 학습 성능을 높이기위해서 keras와 다른 툴을 이용하여 회전, 좌우 반전시키거나 잘라주거나, 크기를 조정하거나 명암을 조정합니다.
  
 <p align="center"><img src="https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/e4bae_aug.PNG" width="40%">
 
