@@ -46,7 +46,7 @@ $python cd_img_loader.py
 
 
 ## Parameter_Optimization & Evaluation  
-### 평가 지표 : 정답(test_solution.csv)/75장의 테스트파일 * 100  
+### 평가 지표 : Categorical Accuracy [정답(test_solution.csv)/75장의 테스트파일 * 100]
 ### 평가 방법 : 
 ```
 $python run_evaluation.py
