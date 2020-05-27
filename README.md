@@ -3,7 +3,8 @@
 2020-1. SEJONG univ. AI miniproject
 
 ### 1분 설명 영상 : [[Youtube_Link]](https://youtu.be/nWOkfHGN6Ck)
-
+(평가 파일에 영상이 빠져서 추가합니다.)
+  
 <p align="center"><img src="https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/test_img.PNG" width="100%">
 
 ### develop environments
