@@ -2,7 +2,7 @@
 
 2020-1. SEJONG univ. AI miniproject
 
-[[Youtube_Link]](https://youtu.be/nWOkfHGN6Ck)
+### 1분 설명 영상 : [[Youtube_Link]](https://youtu.be/nWOkfHGN6Ck)
 
 <p align="center"><img src="https://github.com/chldydgh4687/2020-1_AI_miniproject/blob/master/git_pic/test_img.PNG" width="100%">
 
